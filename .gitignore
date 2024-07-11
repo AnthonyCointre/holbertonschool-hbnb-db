@@ -1,8 +1,0 @@
-#Ignore editorconfig file
-.editorconfig
-
-# Ignore compiled bytecode files
-*.pyc
-
-# Ignore __pycache__ directories
-__pycache__/
